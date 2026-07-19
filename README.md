@@ -50,3 +50,4 @@ The dashboard provides a comprehensive analysis of hospital patient data, focusi
 The dashboard analysis reveals that chronic diseases such as Arthritis, Diabetes, Hypertension, and Obesity remain the primary healthcare burden, particularly among older adults. Hospitals continue to experience high patient volumes and significant billing activity, with some facilities handling substantially larger workloads than others. Insurance providers play a major role in healthcare financing, while balanced admission patterns indicate the need for efficient operational management across elective, urgent, and emergency services.
 
 To improve overall healthcare performance, hospitals should prioritize preventive healthcare initiatives, strengthen chronic disease management, optimize resource allocation, improve billing oversight, and enhance operational efficiency through better staffing, technology adoption, and strategic planning.
+![Dashboard](dp.jpeg)
