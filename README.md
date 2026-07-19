@@ -1,4 +1,5 @@
 # Hospital-Patient-Data-Analysis
+![Dashboard](dp.PNG)
 ## Dashboard Overview
 The dashboard provides a comprehensive analysis of hospital patient data, focusing on patient demographics, medical conditions, billing performance, insurance coverage, hospital workload, admission types, and admission trends over time. The dashboard monitors approximately 40.2K patients with a total billing amount of 1.42bn and an average billing amount of 25.54K. The visuals help evaluate healthcare delivery, operational efficiency, and financial performance across hospitals and patient groups.
 ## Patient Care Optimization
@@ -51,4 +52,4 @@ The dashboard analysis reveals that chronic diseases such as Arthritis, Diabetes
 
 To improve overall healthcare performance, hospitals should prioritize preventive healthcare initiatives, strengthen chronic disease management, optimize resource allocation, improve billing oversight, and enhance operational efficiency through better staffing, technology adoption, and strategic planning.
 
-![Dashboard](dp.PNG)
+
